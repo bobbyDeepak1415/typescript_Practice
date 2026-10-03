@@ -1,3 +1,8 @@
+console.log("hello")
+
+
+
+
 // interface UserDetailsTypes {
 //   name: string;
 //   id: number;
@@ -94,3 +99,6 @@
 // employee.employeeId=3490
 // employee.startDate=12/08/96
 // console.log(employee)
+
+
+
